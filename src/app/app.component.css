@@ -1,0 +1,36 @@
+.name {
+  padding: 5px;
+  text-align: center;
+}
+.container2 {
+  text-decoration: underline;
+}
+.container3 {
+  margin-left: 10%;
+
+}
+.container5 {
+  margin-left: 10%;
+}
+.container6 {
+  margin-right: 10%;
+  text-decoration: underline;
+}
+.container7{
+  margin-left: 30%;
+
+  text-decoration: underline;
+}
+.container9 {
+  margin-left: 23%;
+}
+.quadroprofissional {
+  display: flex;
+}
+img {
+  width: 50px;
+  padding: 1%;
+}
+.link{
+  font-family: Arial, Helvetica, sans-serif;
+}
